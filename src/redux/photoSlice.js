@@ -17,8 +17,11 @@ const photoSlice = createSlice({
       state.push(newPhoto);
       localStorage.setItem("myphoto", JSON.stringify(state));
     },
-    removePhoto: (state) => {
-      console.log("REMOVE", state);
+    removePhoto: (state, action) => {
+      const target = action.payload;
+      state = state.filter(photo => photo.photo !== target.photo);
+      localStorage.setItem("myphoto", JSON.stringify(state));
+      return state;
     },
   },
 });

@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/redux-photo-app/static/css/main.dd333d32.css",
-    "main.js": "/redux-photo-app/static/js/main.696aa851.js",
+    "main.js": "/redux-photo-app/static/js/main.d80ecd94.js",
     "static/css/986.85b288b2.chunk.css": "/redux-photo-app/static/css/986.85b288b2.chunk.css",
-    "static/js/986.b22ffc14.chunk.js": "/redux-photo-app/static/js/986.b22ffc14.chunk.js",
+    "static/js/986.fc4e5c2e.chunk.js": "/redux-photo-app/static/js/986.fc4e5c2e.chunk.js",
     "static/js/787.87c8eaef.chunk.js": "/redux-photo-app/static/js/787.87c8eaef.chunk.js",
     "static/js/290.c45ad3ad.chunk.js": "/redux-photo-app/static/js/290.c45ad3ad.chunk.js",
     "static/media/orange-bg.jpg": "/redux-photo-app/static/media/orange-bg.a98c2734b4299e305b7f.jpg",
@@ -12,14 +12,14 @@
     "static/media/blue-bg.jpg": "/redux-photo-app/static/media/blue-bg.93b683dcd7c104e108ed.jpg",
     "index.html": "/redux-photo-app/index.html",
     "main.dd333d32.css.map": "/redux-photo-app/static/css/main.dd333d32.css.map",
-    "main.696aa851.js.map": "/redux-photo-app/static/js/main.696aa851.js.map",
+    "main.d80ecd94.js.map": "/redux-photo-app/static/js/main.d80ecd94.js.map",
     "986.85b288b2.chunk.css.map": "/redux-photo-app/static/css/986.85b288b2.chunk.css.map",
-    "986.b22ffc14.chunk.js.map": "/redux-photo-app/static/js/986.b22ffc14.chunk.js.map",
+    "986.fc4e5c2e.chunk.js.map": "/redux-photo-app/static/js/986.fc4e5c2e.chunk.js.map",
     "787.87c8eaef.chunk.js.map": "/redux-photo-app/static/js/787.87c8eaef.chunk.js.map",
     "290.c45ad3ad.chunk.js.map": "/redux-photo-app/static/js/290.c45ad3ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd333d32.css",
-    "static/js/main.696aa851.js"
+    "static/js/main.d80ecd94.js"
   ]
 }
